@@ -7,7 +7,7 @@ Tugas kamu adalah membangun *core engine* berbasis AI untuk membaca komposisi pr
 Aplikasi ini harus bisa menerima input berupa gambar komposisi *skincare*, mengirimkannya ke Google Gemini API, dan mengembalikan hasil analisis spesifik untuk **kulit sensitif** dalam format **JSON murni**.
 
 ## 📋 Requirement & Tugas Kamu
-Kamu harus melengkapi file `src/index.js` dengan menyelesaikan `TODO 1` sampai `TODO 9` yang ada di dalamnya.
+Kamu harus melengkapi file `src/index.js` dengan menuliskan kodemu di bagian yang telah disediakan berdasarkan *Hint* yang ada di dalamnya.
 
 1. **Wajib Node.js:** Proyek ini dikhususkan menggunakan *stack* JavaScript dengan *runtime* **Node.js**. Gunakan file *skeleton* `src/index.js` bawaan. Dilarang keras menaruh API Key langsung di dalam kode (gunakan `.env`).
 2. **Aturan Penggunaan AI:** Kamu **DIPERBOLEHKAN** menggunakan AI berbasis *browser* (seperti ChatGPT atau Claude versi *web*) sebagai tempat bertanya dan belajar. Namun, kamu **DILARANG KERAS** menggunakan *AI Coding Agent / Autocomplete* (seperti Cursor, Claude Code, GitHub Copilot, dsb.) yang bisa menuliskan atau mengedit kode secara otomatis di kodemu.
